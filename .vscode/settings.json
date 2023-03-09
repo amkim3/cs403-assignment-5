@@ -1,0 +1,7 @@
+{
+    "makefile.makePath": "/usr/bin/make",
+    "makefile.configurations": [],
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
